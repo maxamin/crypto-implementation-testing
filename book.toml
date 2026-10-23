@@ -1,0 +1,7 @@
+[book]
+title = "Cryptographic Implementation Testing"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/crypto-implementation-testing"
